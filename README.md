@@ -53,7 +53,7 @@ The following parameters can be configured via the OpenWebUI Valve settings:
 ## 🚀 Installation
 
 1. OpenWebUI: Navigate to the Workspace → Tools section.
-2. Import: Create a new tool and paste the hue_tool.py code.
+2. Import: Create a new tool and paste the OpenHueUI.py code.
 3. Configure: Enter your Bridge IP and API Key in the Valve settings.
 4. Assign: Attach the tool to your preferred Model (e.g., GPT-4 or Claude 3).
 
